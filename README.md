@@ -28,5 +28,4 @@ Technical debts:
 The project build can be done directly in Android Studio after the project is cloned.
 below the apk for installation
 
-
-[Uploading bored.zip…]()
+https://drive.google.com/file/d/1QPIuiFpa1Sw6WyNdpc2odjh9dnl4gba4/view?usp=share_link
