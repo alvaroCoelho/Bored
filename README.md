@@ -20,3 +20,5 @@ Room - To persist the data, the annotation system facilitates the implementation
 
 
 The project build can be done directly in Android Studio after the project is cloned
+
+[Uploading bored.zip…]()
