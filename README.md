@@ -19,6 +19,14 @@ Compose - Was used because it has a great reduction of code, the Compose library
 Room - To persist the data, the annotation system facilitates the implementation and the reading of the code.
 
 
-The project build can be done directly in Android Studio after the project is cloned
+Technical debts:
+- unit tests
+- Logs Exception Handling
+- Improved interfaces
+- Generic ResourceStace
+
+The project build can be done directly in Android Studio after the project is cloned.
+below the apk for installation
+
 
 [Uploading bored.zip…]()
